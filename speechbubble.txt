@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Speech Bubble</title>
+<link rel="stylesheet" type="text/css" href="speechbubblestyle.css">
+<body>
+<div class="bubble" style="background:red; border-color: red;">Hello!!</div>
+</div>
+</body>
+
+</html>

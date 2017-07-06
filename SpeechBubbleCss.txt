@@ -1,0 +1,17 @@
+.bubble {
+    margin: 50px;
+    padding: 50px;
+    position: relative;
+    -webkit-border-radius:15px;
+    width:50px;
+}
+.bubble:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: -15px;
+    border-top: 30px solid blue;
+    border-top-color: inherit; 
+    border-left: 20px solid transparent;
+   border-right: 20px solid transparent; 
+}
